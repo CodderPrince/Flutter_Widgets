@@ -200,6 +200,3 @@ This project is licensed under the **MIT License** — feel free to use it in pe
 ```
 © 2025 CodderPrince – Flutter Custom Widget Collection
 ```
-
-```
-```
