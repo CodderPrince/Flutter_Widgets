@@ -12,7 +12,7 @@ class MyApp28 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Circular Progress Indicator',
+      title: 'Linear Progress Indicator',
       home: HomeActivity28(),
       debugShowCheckedModeBanner: false,
     );
